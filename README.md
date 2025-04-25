@@ -7,7 +7,7 @@ This GitHub repository hosts the source code and documentation for a groundbreak
 
 For enhanced performance and real-time processing, we recommend using OpenCV with CUDA support. OpenCV CUDA harnesses the power of NVIDIA GPUs to accelerate image processing tasks.
 
-To take full advantage of GPU acceleration, make sure you have OpenCV built with CUDA support and have compatible NVIDIA drivers installed on your system. You can check OpenCV's official documentation for instructions on building OpenCV with CUDA: [OpenCV CUDA Installation Guide](https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html).
+To take full advantage of GPU acceleration, make sure you have OpenCV built with CUDA support and have compatible NVIDIA drivers installed on your system. You can check OpenCV's official documentation for instructions on building OpenCV
 
 By using OpenCV with CUDA, you can expect significant speed improvements in tasks such as image detection and processing, making this project even more efficient.
 
@@ -33,7 +33,3 @@ Implementation:
 
 The project is implemented in Python, leveraging the power of image processing and video analysis. The rotating camera provides a 180-degree view, allowing comprehensive coverage of traffic lanes. The system dynamically adjusts traffic signals, making it an invaluable tool for traffic analysis and performance enhancement.
 
-
-### Acknowledgments
-
-This project builds upon the work of Pysource(https://www.youtube.com/@pysource-com) for the initial code inspiration and guidance. I am grateful for his valuable contributions to the community.
